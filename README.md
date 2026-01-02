@@ -1,1 +1,0 @@
-# basic-application-Meran-stack
